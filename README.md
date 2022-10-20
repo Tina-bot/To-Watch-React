@@ -8,7 +8,7 @@
 
 * By clicking the check ✔, you notify that you have already seen that series/movie and it is removed from the list
 
-* By clicking the star ⭐ the series / movies with the highest priority, you add that series / movie to favorites and you can see it separately by clicking the "see favorites" button
+* By clicking the star ⭐ the series / movies with the highest priority, you add that series / movie to favorites and you can see it separately by clicking the "Show Favorites" button
 
 <br>
 
