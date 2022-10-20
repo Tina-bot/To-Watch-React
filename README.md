@@ -8,9 +8,9 @@
 
 * React web project consisting of a list of series and movies to enter to watch later
 
-* By clicking the check ✔, you notify that you have already seen that series/movie and it is removed from the list
+* By clicking on the check ✔, it notifies that that series/movie has already been watched and it is removed from the list
 
-* By clicking the star ⭐ the series / movies with the highest priority, you add that series / movie to favorites and you can see it separately by clicking the "Show Favorites" button
+* By clicking on the star ⭐ of the series / movie you prefer to have it in priority, you add that series / movie to favorites and you can watch it separately by clicking the "Show favorites" button
 
 <br>
 
