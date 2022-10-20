@@ -6,7 +6,7 @@
 
 <img src= "https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 
-* React web project consisting of a list of series and movies to enter to watch later
+* React web project consisting of a list of series and movies to enter titles and keep track of what you want to watch
 
 * By clicking on the check ✔, it notifies that the series/movie has already been seen and is removed from the list
 
